@@ -13,5 +13,5 @@ def link
   puts gift
 end
 def all_phrases
-  
+  puts phrase
 end
