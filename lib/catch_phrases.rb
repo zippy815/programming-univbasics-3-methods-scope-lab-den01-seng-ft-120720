@@ -12,8 +12,5 @@ def link
   gift = "It's Dangerous To Go Alone! Take This."
   puts gift
 end
-def all_phrases
-  puts phrase
-  puts status
-  puts gift
-end
+all_phrases = phrase,status,gift
+puts all_phrases
