@@ -14,6 +14,6 @@ def link
 end
 def all_phrases
   puts phrase
-  puts toadstool
+  puts status
   puts gift
 end
