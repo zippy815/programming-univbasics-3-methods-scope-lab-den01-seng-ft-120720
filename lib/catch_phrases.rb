@@ -1,7 +1,6 @@
-
+$phrase = "It's-a me, Mario!"
 def mario
-  phrase = "It's-a me, Mario!"
-  puts phrase
+  puts $phrase
 end
 
 def toadstool
@@ -13,5 +12,5 @@ def link
   puts gift
 end
 def all_phrases
-  puts phrase
+  puts $phrase
 end
