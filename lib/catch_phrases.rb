@@ -13,5 +13,5 @@ end
 def all_phrases
   puts $phrase
   puts $status
-  puts gift
+  puts $gift
 end
