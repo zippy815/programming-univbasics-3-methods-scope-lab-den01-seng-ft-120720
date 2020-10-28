@@ -13,7 +13,7 @@ def link
   puts gift
 end
 def all_phrases
-  phrase
-  status
-  gift
+  puts "#{phrase}"
+  puts "#{status}"
+  puts "#{gift}"
 end
