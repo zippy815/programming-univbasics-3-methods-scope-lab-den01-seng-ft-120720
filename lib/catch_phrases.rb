@@ -9,5 +9,11 @@ def toadstool
   puts status
 end
 def link 
-  puts "It's Dangerous To Go Alone! Take This."
+  gift = "It's Dangerous To Go Alone! Take This."
+  puts gift
+end
+def all_phrases
+  puts phrase
+  puts toadstool
+  puts gift
 end
